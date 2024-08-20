@@ -1,0 +1,11 @@
+top_5_states: state
+FL    1909209.0
+GA    1023487.0
+OH     978471.0
+AZ     826454.0
+NJ     812609.0
+Name: positive, dtype: float64
+avg_mortality_rate: 2.478523381200205
+highest_mortality_rate: CT
+correlation: 0.920109463060671
+peak_new_cases_date: 2020-11-03 00:00:00
