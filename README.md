@@ -56,7 +56,6 @@ usa_covid19_analysis/
 │   │   └── visualize_data.py
 │   └── analysis/
 │       └── analyze_data.py
-├── tests/
 ├── reports/
 │   └── figures/
 ├── requirements.txt
